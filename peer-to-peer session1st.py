@@ -1,0 +1,20 @@
+print("hello world")
+x=[1,2,3];print (x)
+x=[1,2,3]
+print(x)
+x=input("enter a number:")
+print(x)
+x=int(input("enter first number"))
+y=int(input("enter second number"))
+z=x+y
+print(z)
+x=int(input("enter first number"))
+y=int(input("enter second number"))
+multiply=x*y
+print(z)
+x=int(input("enter first number"))
+y=int(input("enter second number"))
+print("add", x+y)
+x=int(input("enter first number"))
+y=int(input("enter second number"))
+print ("divide" =x/y)
